@@ -5,3 +5,4 @@ channels:
 dependencies:
   - rdkit
   - chembl_structure_pipeline
+  - requests
