@@ -1,5 +1,7 @@
 name: example-environment
 channels:
   - conda-forge
+  - chembl
 dependencies:
   - rdkit
+  - chembl_structure_pipeline
